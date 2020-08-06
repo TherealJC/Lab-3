@@ -9,10 +9,10 @@ function setup() {               //Create Function
     noStroke();                      //Remove stroke (Stroke is the black line that borders the shape)
     
     //Draw initial quad shape
-    quad(38, 31, 86, 20, 69, 63, 30, 76);
+    quad(38, 31, 86, 20, 69, 63, 30, 76); //takes 4 corner values, and 4 values for the degree of the axis, eg x1, x2
     
     //Rotate the grid
-    translate(width / 2, height / 2);
+    translate(width / 2, height / 2); //sets the starting point on the canvas
     rotate(PI / -0.610865); //The radian value for 34.999986352 degrees
-    quad(38, 31, 86, 20, 69, 63, 30, 76);
+    quad(38, 31, 86, 20, 69, 63, 30, 76); //the quad from earlier but rotated
     }
