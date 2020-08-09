@@ -4,6 +4,7 @@ how to change where something will appear on the canvas and how to use different
 
 ## How Have I Learnt this ?
 The p5js website was very helpful for figuring out which parameters decided the shapes values, a few things I found especially useful were:
+![Cylinder info](https://github.com/TherealJC/Lab-3/blob/p_five_develop/src/Cylinder2.png)
 
 
 
