@@ -5,11 +5,11 @@ how to change where something will appear on the canvas and how to use different
 ## How Have I Learnt this ?
 The p5js website was very helpful for figuring out which parameters decided the shapes values, a few things I found especially useful were:
 
-### Cylinder Info
+### Cylinder Info, https://p5js.org/reference/#/p5/cylinder  
 ![Cylinder info](https://github.com/TherealJC/Lab-3/blob/p_five_develop/src/cylinder.png)
-### Cylinder Info 2
+### Cylinder Info 2, https://p5js.org/reference/#/p5/cylinder  
 ![Cylinder info 2](https://github.com/TherealJC/Lab-3/blob/p_five_develop/src/Cylinder2.png)
-### Ellipsoid Info
+### Ellipsoid Info, https://p5js.org/reference/#/p5/ellipsoid  
 ![Ellipsoid info](https://github.com/TherealJC/Lab-3/blob/p_five_develop/src/Ellipsoid.png)
 
 ## Why have I learnt this ?
@@ -32,8 +32,8 @@ This week there was a lot of new things to learn, it was good because it was not
 The p5.js basics are relatively easy to understand, but there are a lot of moving parts and new built in keywords that I must learn, Although I am not looking forward to it (coding is always very difficult for me in the beginning), I will do my best. Basic coding knowledge WILL be useful for my future, but more so in c++ and java, however, it all relates, and this will be a good stepping stone.
 
 ### References
-p5js. “cylinder()”. (n.d.). Retrieved August 9, 2020, from https://p5js.org/reference/#/p5/cylinder
-p5js. "ellipsoid()". (n.d.). Retrieved August 9, 2020, from https://p5js.org/reference/#/p5/ellipsoid
-p5js. “Examples". (n.d.). Retrieved August 9, 2020, from https://p5js.org/examples/3d-geometries.html
-p5js. "rotate()". (n.d.). Retrieved August 9, 2020, from https://p5js.org/reference/#/p5/rotate
+p5js. “cylinder()”. (n.d.). Retrieved August 9, 2020, from https://p5js.org/reference/#/p5/cylinder  
+p5js. "ellipsoid()". (n.d.). Retrieved August 9, 2020, from https://p5js.org/reference/#/p5/ellipsoid  
+p5js. “Examples". (n.d.). Retrieved August 9, 2020, from https://p5js.org/examples/3d-geometries.html  
+p5js. "rotate()". (n.d.). Retrieved August 9, 2020, from https://p5js.org/reference/#/p5/rotate  
 
