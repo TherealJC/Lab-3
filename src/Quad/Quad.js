@@ -1,6 +1,6 @@
 //Draw a quad, rotate the shape 35 degree and give the shape a background colour of blue with no stroke
 
-function setup() {               //Create Function
+function quad() {               //Create Function
     createCanvas(800, 600);          // set canvas size
     background(255);                 //set background colour (255=White)
     }
